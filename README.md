@@ -18,11 +18,12 @@ There are 3 types of ratings:
 Use Control + F to search for a specific plugin.
 
 #### Plugins with the letter A
--
+- [AuthmeReloaded](https://www.spigotmc.org/resources/clearlagg.68271/) - 🟩 Compatible (Date: 23/07/22, XS Version: 1.0.8)
+- [ASkyBlock](https://www.spigotmc.org/resources/askyblock.1220/) - 🟩 Compatible (Date: 23/07/22, XS Version: 1.0.8)
 #### Plugins with the letter B
 -
 #### Plugins with the letter C
--
+- [ClearLagg](https://www.spigotmc.org/resources/clearlagg.68271/) - 🟩 Compatible (Date: 23/07/22, XS Version: 1.0.8)
 #### Plugins with the letter D
 -
 #### Plugins with the letter E
@@ -60,7 +61,7 @@ Use Control + F to search for a specific plugin.
 - [SuperLobbyPlus](https://www.spigotmc.org/resources/superlobbyplus-advanced-lobby-animated-scoreboard-chat-commands-abandoned.43816/) - 🟥 Incompatible (Date: 23/07/22, XS Version: 1.0.8)
 - [SkinsRestorer](https://skinsrestorer.net/) - 🟩 Compatible (Date: 23/07/22, XS Version: 1.0.8)
 #### Plugins with the letter T
--
+- [TitleManager](https://www.spigotmc.org/resources/titlemanager.1049/) - 🟩 Compatible (Date: 23/07/22, XS Version: 1.0.8)
 #### Plugins with the letter U
 -
 #### Plugins with the letter V
