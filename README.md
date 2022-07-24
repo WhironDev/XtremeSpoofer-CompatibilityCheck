@@ -71,6 +71,8 @@ Use Control + F to search for a specific plugin.
 -
 #### Plugins with the letter V
 - [Vault](https://github.com/milkbowl/Vault) - 🟩 Compatible (Date: 23/07/22, XS Version: 1.0.8)
+- [ViaRewind](https://github.com/Gerrygames/ViaRewind) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
+- [ViaBackwards](https://github.com/ViaVersion/ViaBackwards/) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
 - [ViaVersion](https://viaversion.com/) - 🟩 Compatible (Date: 23/07/22, XS Version: 1.0.8)
 #### Plugins with the letter W
 - [WorldEdit](https://dev.bukkit.org/projects/worldedit) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
