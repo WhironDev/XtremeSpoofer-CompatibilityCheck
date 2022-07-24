@@ -25,7 +25,7 @@ Use Control + F to search for a specific plugin.
 #### Plugins with the letter C
 - [ClearLagg](https://www.spigotmc.org/resources/clearlagg.68271/) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
 #### Plugins with the letter D
--
+- [Dynmap](https://www.spigotmc.org/resources/askyblock.1220/) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
 #### Plugins with the letter E
 - [EssentialsX](https://essentialsx.net/) - 🟩 Compatible (Date: 23/07/22, XS Version: 1.0.8)
 #### Plugins with the letter F
@@ -59,6 +59,7 @@ Use Control + F to search for a specific plugin.
 - [SetHome](https://www.spigotmc.org/resources/set-home.32748/) - 🟩 Compatible (Date: 23/07/22, XS Version: 1.0.8)
 - [SimpleTpa](https://www.spigotmc.org/resources/simple-tpa.64270/) - 🟩 Compatible (Date: 23/07/22, XS Version: 1.0.8)
 - [SuperLobbyPlus](https://www.spigotmc.org/resources/superlobbyplus-advanced-lobby-animated-scoreboard-chat-commands-abandoned.43816/) - 🟥 Incompatible (Date: 23/07/22, XS Version: 1.0.8)
+- [SuperVanish](https://www.spigotmc.org/resources/supervanish-be-invisible.1331/) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
 - [SkinsRestorer](https://skinsrestorer.net/) - 🟩 Compatible (Date: 23/07/22, XS Version: 1.0.8)
 #### Plugins with the letter T
 - [TitleManager](https://www.spigotmc.org/resources/titlemanager.1049/) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
@@ -68,7 +69,8 @@ Use Control + F to search for a specific plugin.
 - [Vault](https://github.com/milkbowl/Vault) - 🟩 Compatible (Date: 23/07/22, XS Version: 1.0.8)
 - [ViaVersion](https://viaversion.com/) - 🟩 Compatible (Date: 23/07/22, XS Version: 1.0.8)
 #### Plugins with the letter W
--
+- [WorldEdit](https://dev.bukkit.org/projects/worldedit) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
+- [WorldEditSelectionVisualizer](https://www.spigotmc.org/resources/worldeditselectionvisualizer-1-7-10-1-19.17311/) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
 #### Plugins with the letter X
 -
 #### Plugins with the letter Y
