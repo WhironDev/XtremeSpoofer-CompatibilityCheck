@@ -18,6 +18,7 @@ There are 3 types of ratings:
 Use Control + F to search for a specific plugin.
 
 #### Plugins with the letter A
+- [AnimatedScoreboard](https://www.spigotmc.org/resources/animatedscoreboard.20848/) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
 - [AuthmeReloaded](https://www.spigotmc.org/resources/clearlagg.68271/) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
 - [ASkyBlock](https://www.spigotmc.org/resources/askyblock.1220/) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
 #### Plugins with the letter B
@@ -44,9 +45,11 @@ Use Control + F to search for a specific plugin.
 #### Plugins with the letter K
 -
 #### Plugins with the letter L
+- [LoginSecurity](https://github.com/lenis0012/LoginSecurity-2) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
 - [LuckPerms](https://luckperms.net/) - 🟨 Functional (Date: 23/07/22, XS Version: 1.0.8)
 #### Plugins with the letter M
 - [MassiveCore](https://www.spigotmc.org/resources/massivecore.1901/) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
+- [MOTD](https://www.spigotmc.org/resources/motd-1-8-1-18-1.8390/) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
 #### Plugins with the letter N
 - [NametagEdit](https://github.com/sgtcaze/NametagEdit) - 🟩 Compatible (Date: 23/07/22, XS Version: 1.0.8)
 #### Plugins with the letter O
@@ -56,12 +59,15 @@ Use Control + F to search for a specific plugin.
 - [PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI) - 🟩 Compatible (Date: 23/07/22, XS Version: 1.0.8)
 - [ProtocolLib](https://github.com/dmulloy2/ProtocolLib/) - 🟩 Compatible (Date: 23/07/22, XS Version: 1.0.8)
 #### Plugins with the letter Q
--
+- [Quality Armory](https://github.com/ZombieStriker/QualityArmory/) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
+- [Quests](https://www.spigotmc.org/resources/quests.3711/) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
 #### Plugins with the letter R
 -
 #### Plugins with the letter S
 - [SetHome](https://www.spigotmc.org/resources/set-home.32748/) - 🟩 Compatible (Date: 23/07/22, XS Version: 1.0.8)
 - [SimpleTpa](https://www.spigotmc.org/resources/simple-tpa.64270/) - 🟩 Compatible (Date: 23/07/22, XS Version: 1.0.8)
+- [sTablist](https://github.com/DevJul1an/sTablist) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
+- [Staff+](https://github.com/Qballl/StaffPlus) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
 - [SuperLobbyPlus](https://www.spigotmc.org/resources/superlobbyplus-advanced-lobby-animated-scoreboard-chat-commands-abandoned.43816/) - 🟥 Incompatible (Date: 23/07/22, XS Version: 1.0.8)
 - [SuperVanish](https://www.spigotmc.org/resources/supervanish-be-invisible.1331/) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
 - [SkinsRestorer](https://skinsrestorer.net/) - 🟩 Compatible (Date: 23/07/22, XS Version: 1.0.8)
