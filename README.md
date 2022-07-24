@@ -24,31 +24,35 @@ Use Control + F to search for a specific plugin.
 -
 #### Plugins with the letter C
 - [ClearLagg](https://www.spigotmc.org/resources/clearlagg.68271/) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
+- [CMILib](https://www.spigotmc.org/resources/cmilib.87610/) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
+- [CratesPlus](https://www.spigotmc.org/resources/cratesplus-free-crates-plugin-1-8-1-16-4.5018/) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
 #### Plugins with the letter D
 - [Dynmap](https://www.spigotmc.org/resources/askyblock.1220/) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
 #### Plugins with the letter E
 - [EssentialsX](https://essentialsx.net/) - 🟩 Compatible (Date: 23/07/22, XS Version: 1.0.8)
 #### Plugins with the letter F
--
+- [Factions](https://www.spigotmc.org/resources/factions.1900/) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
 #### Plugins with the letter G
+- [GadgetsMenu](https://www.spigotmc.org/resources/gadgetsmenu-1-8-1-19-free.10885/) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
 - [GeyserMC](https://geysermc.org/) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
 #### Plugins with the letter H
 -
 #### Plugins with the letter I
--
+- [iDisguise](https://www.spigotmc.org/resources/idisguise.5509/) - 🟥 Incompatible (Date: 24/07/22, XS Version: 1.0.8)
 #### Plugins with the letter J
--
+- [Jobs Reborn](https://www.spigotmc.org/resources/jobs-reborn.4216/) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
 #### Plugins with the letter K
 -
 #### Plugins with the letter L
 - [LuckPerms](https://luckperms.net/) - 🟨 Functional (Date: 23/07/22, XS Version: 1.0.8)
 #### Plugins with the letter M
--
+- [MassiveCore](https://www.spigotmc.org/resources/massivecore.1901/) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
 #### Plugins with the letter N
 - [NametagEdit](https://github.com/sgtcaze/NametagEdit) - 🟩 Compatible (Date: 23/07/22, XS Version: 1.0.8)
 #### Plugins with the letter O
 -
 #### Plugins with the letter P
+- [Phoenix Anti-Cheat](https://www.spigotmc.org/resources/phoenix-anti-cheat.6207/) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
 - [PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI) - 🟩 Compatible (Date: 23/07/22, XS Version: 1.0.8)
 - [ProtocolLib](https://github.com/dmulloy2/ProtocolLib/) - 🟩 Compatible (Date: 23/07/22, XS Version: 1.0.8)
 #### Plugins with the letter Q
