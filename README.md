@@ -31,7 +31,7 @@ Use Control + F to search for a specific plugin.
 #### Plugins with the letter F
 -
 #### Plugins with the letter G
--
+- [GeyserMC](https://geysermc.org/) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
 #### Plugins with the letter H
 -
 #### Plugins with the letter I
