@@ -18,12 +18,19 @@ There are 3 types of ratings:
 Use Control + F to search for a specific plugin.
 
 #### Plugins with the letter A
+- [AngelCards](https://www.spigotmc.org/resources/angelcards.64831/) - 🟩 Compatible (Date: 29/07/22, XS Version: 1.0.8)
+- [ajLeaderboards](https://gitlab.com/ajg0702/ajleaderboards) - 🟩 Compatible (Date: 29/07/22, XS Version: 1.0.8)
 - [AnimatedScoreboard](https://www.spigotmc.org/resources/animatedscoreboard.20848/) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
+- [AutoOreMelt](https://www.spigotmc.org/resources/autooremelt.12705/) - 🟩 Compatible (Date: 29/07/22, XS Version: 1.0.8)
 - [AuthmeReloaded](https://www.spigotmc.org/resources/clearlagg.68271/) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
 - [ASkyBlock](https://www.spigotmc.org/resources/askyblock.1220/) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
 #### Plugins with the letter B
 - [BetterRTP](https://github.com/SuperRonanCraft/BetterRTP/) - 🟩 Compatible (Date: 25/07/22, XS Version: 1.0.8)
+- [BlockParticles](https://github.com/Crazy-Crew/Block-Particles) - 🟩 Compatible (Date: 29/07/22, XS Version: 1.0.8)
+- [BungeeGuard](https://github.com/lucko/BungeeGuard) - 🟩 Compatible (Date: 29/07/22, XS Version: 1.0.8)
 #### Plugins with the letter C
+- [ChatSentinel](https://www.mc-market.org/resources/23698/) - 🟩 Compatible (Date: 29/07/22, XS Version: 1.0.8)
+- [Citizens2](https://github.com/CitizensDev/Citizens2) - 🟩 Compatible (Date: 29/07/22, XS Version: 1.0.8)
 - [ClearLagg](https://www.spigotmc.org/resources/clearlagg.68271/) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
 - [CMILib](https://www.spigotmc.org/resources/cmilib.87610/) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
 - [CratesPlus](https://www.spigotmc.org/resources/cratesplus-free-crates-plugin-1-8-1-16-4.5018/) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
