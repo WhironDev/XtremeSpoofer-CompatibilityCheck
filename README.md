@@ -85,7 +85,7 @@ Use Control + F to search for a specific plugin.
 #### Plugins with the letter T
 - [TitleManager](https://www.spigotmc.org/resources/titlemanager.1049/) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
 #### Plugins with the letter U
-- [UltraCosmetics](http://github.com/iSach/UltraCosmetics) - 🟨 Compatible (Date: 25/07/22, XS Version: 1.0.8)
+- [UltraCosmetics](http://github.com/iSach/UltraCosmetics) - 🟨 Functional (Date: 25/07/22, XS Version: 1.0.8)
 #### Plugins with the letter V
 - [Vault](https://github.com/milkbowl/Vault) - 🟩 Compatible (Date: 23/07/22, XS Version: 1.0.8)
 - [ViaRewind](https://github.com/Gerrygames/ViaRewind) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
