@@ -48,15 +48,20 @@ Use Control + F to search for a specific plugin.
 - [Holograms](https://github.com/sainttx/Holograms) - 🟩 Compatible (Date: 25/07/22, XS Version: 1.0.8)
 #### Plugins with the letter I
 - [iDisguise](https://www.spigotmc.org/resources/idisguise.5509/) - 🟥 Incompatible (Date: 24/07/22, XS Version: 1.0.8)
+- [IllegalStack](https://github.com/dniym/IllegalStack) - 🟩 Compatible (Date: 17/08/22, XS Version: 1.0.8)
 #### Plugins with the letter J
 - [Jobs Reborn](https://www.spigotmc.org/resources/jobs-reborn.4216/) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
 #### Plugins with the letter K
+- [killStats](https://www.spigotmc.org/resources/killstats.2098/) - 🟩 Compatible (Date: 17/08/22, XS Version: 1.0.8)
 - [KitPvP](https://www.spigotmc.org/resources/kitpvp-1-8-1-18-custom-kits-leaderboards-gui-levels-kill-streaks-abilities-more.27107/) - 🟩 Compatible (Date: 25/07/22, XS Version: 1.0.8)
 #### Plugins with the letter L
+- [Lib1711](https://www.spigotmc.org/resources/lib1711.35982/) - 🟩 Compatible (Date: 17/08/22, XS Version: 1.0.8)
 - [LoginSecurity](https://github.com/lenis0012/LoginSecurity-2) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
+- [Log4JExploitFix](https://github.com/Luziferium/Log4JExploitFix) - 🟩 Compatible (Date: 17/08/22, XS Version: 1.0.8)
 - [LuckPerms](https://luckperms.net/) - 🟨 Functional (Date: 23/07/22, XS Version: 1.0.8)
 #### Plugins with the letter M
 - [MassiveCore](https://www.spigotmc.org/resources/massivecore.1901/) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
+- [MessageAnnouncer](https://www.spigotmc.org/resources/messageannouncer.5408/) - 🟩 Compatible (Date: 17/08/22, XS Version: 1.0.8)
 - [MOTD](https://www.spigotmc.org/resources/motd-1-8-1-18-1.8390/) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
 - [MySkin](https://www.spigotmc.org/resources/myskin-1-8-x-1-16-5.52303/) - 🟩 Compatible (Date: 25/07/22, XS Version: 1.0.8)
 #### Plugins with the letter N
@@ -83,6 +88,7 @@ Use Control + F to search for a specific plugin.
 - [SuperVanish](https://www.spigotmc.org/resources/supervanish-be-invisible.1331/) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
 - [SkinsRestorer](https://skinsrestorer.net/) - 🟩 Compatible (Date: 23/07/22, XS Version: 1.0.8)
 #### Plugins with the letter T
+- [TAB](https://github.com/NEZNAMY/TAB) - 🟩 Compatible (Date: 17/08/22, XS Version: 1.0.8)
 - [TitleManager](https://www.spigotmc.org/resources/titlemanager.1049/) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
 #### Plugins with the letter U
 - [UltraCosmetics](http://github.com/iSach/UltraCosmetics) - 🟨 Functional (Date: 25/07/22, XS Version: 1.0.8)
