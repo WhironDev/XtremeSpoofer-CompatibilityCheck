@@ -94,6 +94,7 @@ Use Control + F to search for a specific plugin.
 - [UltraCosmetics](http://github.com/iSach/UltraCosmetics) - 🟨 Functional (Date: 25/07/22, XS Version: 1.0.8)
 #### Plugins with the letter V
 - [Vault](https://github.com/milkbowl/Vault) - 🟩 Compatible (Date: 23/07/22, XS Version: 1.0.8)
+- [VentureChat](https://github.com/Aust1n46/VentureChat) - 🟨 Functional (Date: 08/09/22, XS Version: 1.0.9)
 - [ViaRewind](https://github.com/Gerrygames/ViaRewind) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
 - [ViaBackwards](https://github.com/ViaVersion/ViaBackwards/) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
 - [ViaVersion](https://viaversion.com/) - 🟩 Compatible (Date: 23/07/22, XS Version: 1.0.8)
