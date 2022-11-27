@@ -38,6 +38,7 @@ Use Control + F to search for a specific plugin.
 - [DeluxeHub](https://github.com/ItsLewizzz/DeluxeHub) - 🟩 Compatible (Date: 25/07/22, XS Version: 1.0.8)
 - [Dynmap](https://www.spigotmc.org/resources/askyblock.1220/) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
 #### Plugins with the letter E
+- [EazyNick](https://github.com/JustixDevelopment/EazyNick) - 🟥 Incompatible (Date: 27/11/22, XS Version: 1.0.9)
 - [EssentialsX](https://essentialsx.net/) - 🟩 Compatible (Date: 23/07/22, XS Version: 1.0.8)
 #### Plugins with the letter F
 - [Factions](https://www.spigotmc.org/resources/factions.1900/) - 🟩 Compatible (Date: 24/07/22, XS Version: 1.0.8)
